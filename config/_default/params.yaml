@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: blue
-  font_size: "20"
+  font-size: 40px
 
 # SEO
 marketing:

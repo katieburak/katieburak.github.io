@@ -1,6 +1,6 @@
 ---
 title: Girls in Data Science Camp
-date: 2023-10-26
+date: 2024-07-08
 external_link: https://github.com/katieburak/girls-in-DS
 tags:
   - GitHub

@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Girls in Data Science Camp</title>
+      <link>http://localhost:1313/project/girls-in-ds/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/girls-in-ds/</guid>
+      <description>&lt;p&gt;The Girls in Data Science Summer Camp at UBC aims to expose participants to a variety of topics in data science and statistics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Recent Courses</title>
       <link>http://localhost:1313/courses/courses-taught/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -76,14 +84,6 @@
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/article-1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Girls in Data Science Camp</title>
-      <link>http://localhost:1313/project/girls-in-ds/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/girls-in-ds/</guid>
-      <description>&lt;p&gt;The Girls in Data Science Summer Camp at UBC aims to expose participants to a variety of topics in data science and statistics.&lt;/p&gt;</description>
     </item>
     
     <item>
