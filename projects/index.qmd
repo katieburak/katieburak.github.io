@@ -1,0 +1,26 @@
+---
+title: "Projects"
+description: |
+listing:
+  - id: ehr
+    max-description-length: 500
+    image-height: 150px
+    fields: [image, title, description]
+    contents: 
+      - project_1
+      - project_2
+    type: grid
+    grid-item-border: false
+    
+---
+
+Here are a selection of projects that I have worked on over the years.
+
+::: {#ehr}
+:::
+
+
+
+
+
+

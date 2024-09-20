@@ -1,0 +1,11 @@
+---
+title: "Publications"
+description: |
+
+---
+
++ **Katie Burak**, Adam B. Kashlak (2024). [Bootstrapping generalized linear models to accommodate overdispersed count data](https://link.springer.com/article/10.1007/s00362-024-01534-4). In *Statistical Papers*.
+
++ **Katie Burak** (2024). [Facilitating a Flipped Classroom with VideoScribe](https://mailchi.mp/04c7fc9215ca/fymsic-newsletter-issue-15). In *FYMSiC Newsletter*.
+
++ **Katie Burak**, Adam B. Kashlak (2022). [Nonparametric confidence regions via the analytic wild bootstrap](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjs.11687). In *The Canadian Journal of Statistics*.

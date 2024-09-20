@@ -1,0 +1,32 @@
+---
+title: "Katie Burak"
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: envelope
+      text: E-mail
+      href: "mailto:kburak@stat.ubc.ca"
+    - icon: github
+      text: Github
+      href: https://github.com/katieburak
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/katie-burak-a9a12615b/?originalSubdomain=ca
+---
+
+::: {#hero-heading}
+
+I am an Assistant Professor of Teaching in the [Department of Statistics](https://www.stat.ubc.ca/) as well as a member of the academic team for the [Master of Data Science Program](https://ubc-mds.github.io/) at the University of British Columbia. My work focuses on modern pedagogical methods in statistics and data science. I am passionate about academic outreach, with a focus on promoting women in data science and addressing equity issues in the statistical sciences.
+
+### Education
+
++ PhD in Statistics | University of Alberta, 2023
+
++ MSc in Statistics | University of Calgary, 2019
+
++ BSc in Mathematics | MacEwan University, 2017
+
+:::

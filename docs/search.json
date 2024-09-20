@@ -1,0 +1,140 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Author",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a researcher at University of Oslo.\nMy work is about Electronic Health Records.\n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Author",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Author",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Katie Burak",
+    "section": "",
+    "text": "E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am an Assistant Professor of Teaching in the Department of Statistics as well as a member of the academic team for the Master of Data Science Program at the University of British Columbia. My work focuses on modern pedagogical methods in statistics and data science. I am passionate about academic outreach, with a focus on promoting women in data science and addressing equity issues in the statistical sciences.\n\nEducation\n\nPhD in Statistics | University of Alberta, 2023\nMSc in Statistics | University of Calgary, 2019\nBSc in Mathematics | MacEwan University, 2017"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Past and Upcoming Talks:\n\n\n\n\n\n\n\n\n\n\nHow to create and distribute R packages\n\n\n\n\n\nData Science and Analytics Workshop, SSC 2024\n\n\n\n\n\nJun 2, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nDiversity in Data Science: Empowering Women Through Outreach\n\n\n\n\n\nIDWSDS Conference 2024\n\n\n\n\n\nOct 8, 2024\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "Stats with Katie",
+    "section": "",
+    "text": "This YouTube channel provides short videos to explain a variety of statistical concepts. Whether you are new to stats or looking to brush up your skills, check out my channel here!"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Here is a featured list of some courses I have taught recently:\n\nSTAT 545: Exploratory Data Analysis\nDSCI 552: Statistical Inference and Computation I\nDSCI 561: Regression I\nDSCI 574: Spatial and Temporal Models\nDSCI 100: Introduction to Data Science",
+    "crumbs": [
+      "Courses"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are a selection of projects that I have worked on over the years.\n\n\n\n\n\n\n\n\n\n\nGirls in Data Science Camp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStats with Katie\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "Girls in Data Science Camp",
+    "section": "",
+    "text": "The Girls in Data Science Summer Camp at UBC aims to expose participants to a variety of topics in data science and statistics. More details can be found here."
+  },
+  {
+    "objectID": "talks/talk_2/index.html",
+    "href": "talks/talk_2/index.html",
+    "title": "Diversity in Data Science: Empowering Women Through Outreach",
+    "section": "",
+    "text": "Abstract\nIn 2024, the Data Science Council of America reported that although 57% of women make up the overall workforce, only 27% of employees in the technology industry are women. We are currently still facing the challenge of insufficient representation of women and other gender minorities in data science and statistics. However, it is has been observed that perhaps this gender imbalance may start from a much earlier point than when individuals are entering the workforce. The “leaky pipeline” is a term that describes the phenomenon of the loss of women in STEM fields , despite them having strong abilities and interest in these domains. To help overcome systemic barriers that women face in these industries, I believe it is important that we impact students early on to expose them to new topics and perhaps inspire them to pursue careers in data science. In this talk, I will discuss my experiences with data science outreach and how engaging our communities can promote future women in the field."
+  },
+  {
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "How to create and distribute R packages",
+    "section": "",
+    "text": "Abstract\nIn this workshop learners will be introduced to what an R package is and when they should invest the time to make one. By the end of the workshop, learners should be able to build their own package that can be easily shared and installed by others. Additional important topics such as code testing, documentation and licenses will also be attended to.\n\nWorkshop material can be found here"
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Katie Burak, Adam B. Kashlak (2024). Bootstrapping generalized linear models to accommodate overdispersed count data. In Statistical Papers.\nKatie Burak (2024). Facilitating a Flipped Classroom with VideoScribe. In FYMSiC Newsletter.\nKatie Burak, Adam B. Kashlak (2022). Nonparametric confidence regions via the analytic wild bootstrap. In The Canadian Journal of Statistics.",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
+    "section": "",
+    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
+  }
+]

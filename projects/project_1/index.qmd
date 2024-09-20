@@ -1,0 +1,7 @@
+---
+title: "Girls in Data Science Camp"
+categories:
+image: "image.jpg"
+---
+
+The Girls in Data Science Summer Camp at UBC aims to expose participants to a variety of topics in data science and statistics. More details can be found [here](https://github.com/katieburak/girls-in-DS).

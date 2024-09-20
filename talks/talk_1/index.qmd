@@ -1,0 +1,12 @@
+---
+title: "How to create and distribute R packages"
+description: "Data Science and Analytics Workshop, SSC 2024"
+date: "2024-06-02"
+categories: 
+---
+
+### Abstract
+
+In this workshop learners will be introduced to what an R package is and when they should invest the time to make one. By the end of the workshop, learners should be able to build their own package that can be easily shared and installed by others. Additional important topics such as code testing, documentation and licenses will also be attended to.
+
+> Workshop material can be found [here](https://ubc-stat.github.io/ssc-workshop-2024/)

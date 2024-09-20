@@ -1,0 +1,13 @@
+---
+title: "Courses"
+description: |
+
+---
+
+Here is a featured list of some courses I have taught recently:
+
++ [STAT 545: Exploratory Data Analysis](https://stat545.stat.ubc.ca/)
++ [DSCI 552: Statistical Inference and Computation I](https://github.com/UBC-MDS/DSCI_552_stat-inf-1)
++ DSCI 561: Regression I
++ DSCI 574: Spatial and Temporal Models
++ [DSCI 100: Introduction to Data Science](https://github.com/ubc-dsci/dsci-100-student)
