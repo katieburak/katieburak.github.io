@@ -9,9 +9,10 @@ listing:
     contents: 
       - project_1
       - project_2
+      - project_3
     type: grid
     grid-item-border: false
-    
+    sort: false
 ---
 
 Here are a selection of projects that I have worked on over the years.

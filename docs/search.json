@@ -59,18 +59,21 @@
     "text": "This package does this."
   },
   {
-    "objectID": "projects/pkg_1/index.html",
-    "href": "projects/pkg_1/index.html",
-    "title": "pkg_1",
+    "objectID": "projects/project_3/index.html",
+    "href": "projects/project_3/index.html",
+    "title": "PhD Dissertation",
     "section": "",
-    "text": "This package does this."
+    "text": "Nonparametric inference for linear models via an analytic framework for the wild bootstrap"
   },
   {
-    "objectID": "projects/project_2/index.html",
-    "href": "projects/project_2/index.html",
-    "title": "Stats with Katie",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "This YouTube channel provides short videos to explain a variety of statistical concepts. Whether you are new to stats or looking to brush up your skills, check out my channel here!"
+    "text": "Here are a selection of projects that I have worked on over the years.\n\n\n\n\n\n\n\n\n\n\nGirls in Data Science Camp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStats with Katie\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Dissertation\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
   },
   {
     "objectID": "courses.html",
@@ -83,14 +86,18 @@
     ]
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "Stats with Katie",
     "section": "",
-    "text": "Here are a selection of projects that I have worked on over the years.\n\n\n\n\n\n\n\n\n\n\nGirls in Data Science Camp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStats with Katie\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Projects"
-    ]
+    "text": "This YouTube channel provides short videos to explain a variety of statistical concepts. Whether you are new to stats or looking to brush up your skills, check out my channel here!"
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
   },
   {
     "objectID": "projects/project_1/index.html",

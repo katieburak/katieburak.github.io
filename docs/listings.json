@@ -17,7 +17,8 @@
     "listing": "/projects/index.html",
     "items": [
       "/projects/project_1/index.html",
-      "/projects/project_2/index.html"
+      "/projects/project_2/index.html",
+      "/projects/project_3/index.html"
     ]
   }
 ]
