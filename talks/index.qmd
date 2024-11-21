@@ -23,18 +23,11 @@ listing:
     grid-item-border: false
     sort-ui: false
     filter-ui: false
-  
 ---
 
 #### Past and Upcoming Talks:
 
 ::: {#ssc2024}
 :::
-
 ::: {#IDWSDS2024}
 :::
-
-
-
-
-

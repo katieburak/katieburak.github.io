@@ -1,1 +1,6 @@
 /* css styles */
+
+:root {
+  --bs-primary: #6495ed; /* Cornflower blue */
+  --bs-secondary: #003366; /* Lighter navy */
+}

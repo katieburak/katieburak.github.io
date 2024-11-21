@@ -1,1 +1,54 @@
 /* css styles */
+
+:root {
+  --bs-primary: #003366; 
+  --bs-secondary: #003366; 
+  --bs-body-bg: #f8f9fa; 
+  --bs-body-color: #212529; 
+}
+
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif !important;
+  color: #212529; /* Default text color */
+}
+
+
+h1, h2, h3 {
+  color: var(--bs-primary); /* Use your primary color for headings */
+}
+
+a {
+  color: var(--bs-primary); /* Links */
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--bs-secondary); /* Change color on hover */
+}
+
+/* Apply the background color to the sidebar */
+nav.sidebar {
+  background-color: #B0C8D3 !important; /* Light blue background */
+  color: #003366; /* Navy text */
+  padding: 1rem; /* Optional: Add padding for spacing */
+  border-right: 1px solid #B0C8D3; /* Optional: Add a border to define the sidebar */
+}
+
+/* Ensure all content within the sidebar respects the color */
+nav.sidebar * {
+  color: #003366 !important; /* Navy for all text inside sidebar */
+}
+
+/* Style the links in the sidebar */
+nav.sidebar a {
+  color: #003366; /* Navy links */
+  text-decoration: none; /* Remove underlines */
+  font-weight: bold; /* Optional: Bold text */
+}
+
+/* Sidebar links hover state */
+nav.sidebar a:hover {
+  color: #003366; 
+  text-decoration: underline;
+}
