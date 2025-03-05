@@ -4,7 +4,7 @@ description: |
 listing:
   - id: ssc2024
     max-description-length: 500
-    image-height: 150px
+    image-height: 50px
     fields: [title, description, image, date]
     contents: 
       - talk_1
@@ -15,7 +15,7 @@ listing:
     
   - id: IDWSDS2024
     max-description-length: 500
-    image-height: 150px
+    image-height: 50px
     fields: [title, description, image, date]
     contents: 
       - talk_2

@@ -52,3 +52,34 @@ nav.sidebar a:hover {
   color: #003366; 
   text-decoration: underline;
 }
+
+/* Reduce margin and padding for the listing container */
+.listing {
+  margin-bottom: 10px; /* Adjust the spacing between each listing */
+  padding: 0; /* Remove unnecessary padding */
+}
+
+/* Reduce space between individual listing items */
+.listing-item {
+  margin-bottom: 5px; /* Adjust space between each listing item */
+  padding: 0; /* Remove extra padding */
+}
+
+/* Control image size and remove extra space below images */
+.listing-item img {
+  height: 150px; /* Ensure the images stay at 150px */
+  width: auto; /* Maintain aspect ratio */
+  display: block; /* Remove space below the image */
+}
+
+/* Reduce spacing around heading and description inside listing items */
+.listing-item h3, .listing-item p {
+  margin-top: 5px;
+  margin-bottom: 5px; /* Adjust margins to reduce space */
+}
+
+/* Reduce space between links in listing items */
+.listing-item a {
+  margin-top: 0;
+  margin-bottom: 5px; /* Reduce space between links */
+}
