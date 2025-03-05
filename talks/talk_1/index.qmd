@@ -2,7 +2,8 @@
 title: "How to create and distribute R packages"
 description: "Data Science and Analytics Workshop, SSC 2024"
 date: "2024-06-02"
-categories: 
+categories:
+authors: Tiffany Timbers, Daniel Chen, G. Alexi Rodríguez-Arelis, Katie Burak (University of British Columbia)
 ---
 
 ### Abstract
