@@ -16,6 +16,11 @@
   },
   {
     "listing": "/talks/index.html",
-    "items": []
+    "items": [
+      "/talks/posit2025/index.html",
+      "/talks/ssc2025/index.html",
+      "/talks/ssc2024/index.html",
+      "/talks/IDWSDS2024/index.html"
+    ]
   }
 ]

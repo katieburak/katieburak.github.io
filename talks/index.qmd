@@ -7,7 +7,7 @@ listing:
     image-height: 50px
     fields: [title, description, image, date]
     contents: 
-      - talk_3
+      - posit2025
     type: default
     grid-item-border: false
     sort-ui: false
@@ -17,7 +17,7 @@ listing:
     image-height: 50px
     fields: [title, description, image, date]
     contents: 
-      - talk_4
+      - ssc2025
     type: default
     grid-item-border: false
     sort-ui: false
@@ -28,7 +28,7 @@ listing:
     image-height: 50px
     fields: [title, description, image, date]
     contents: 
-      - talk_1
+      - ssc2024
     type: default
     grid-item-border: false
     sort-ui: false
@@ -39,7 +39,7 @@ listing:
     image-height: 50px
     fields: [title, description, image, date]
     contents: 
-      - talk_2
+      - IDWSDS2024
     type: default
     grid-item-border: false
     sort-ui: false
