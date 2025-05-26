@@ -46,48 +46,31 @@
     "href": "talks/index.html",
     "title": "Talks",
     "section": "",
-    "text": "Past and Upcoming Talks:\n\n\n\n\n\n\n\n\n\n\nMachine learning with scikit-learn in Python\n\n\n\n\n\nposit::conf(2025)\n\n\n\n\n\nSep 16, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create and distribute R packages\n\n\n\n\n\nData Science and Analytics Workshop, SSC 2024\n\n\n\n\n\nJun 2, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nDiversity in Data Science: Empowering Women Through Outreach\n\n\n\n\n\nIDWSDS Conference 2024\n\n\n\n\n\nOct 8, 2024\n\n\n\n\n\n\nNo matching items",
+    "text": "Past and Upcoming Talks:\n\n\n\n\n\n\n\n\n\n\nMachine learning with scikit-learn in Python\n\n\n\n\n\nposit::conf(2025)\n\n\n\n\n\nSep 16, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nAuthentic Data Science Assessments in a Computer-Based Testing Environment\n\n\n\n\n\nNew Frontiers in Statistical Education, SSC 2025\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create and distribute R packages\n\n\n\n\n\nData Science and Analytics Workshop, SSC 2024\n\n\n\n\n\nJun 2, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nDiversity in Data Science: Empowering Women Through Outreach\n\n\n\n\n\nIDWSDS Conference 2024\n\n\n\n\n\nOct 8, 2024\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Talks"
     ]
   },
   {
-    "objectID": "talks/talk_2/index.html",
-    "href": "talks/talk_2/index.html",
-    "title": "Diversity in Data Science: Empowering Women Through Outreach",
+    "objectID": "talks/talk_3/index.html",
+    "href": "talks/talk_3/index.html",
+    "title": "Machine learning with scikit-learn in Python",
     "section": "",
-    "text": "Abstract\nIn 2024, the Data Science Council of America reported that although 57% of women make up the overall workforce, only 27% of employees in the technology industry are women. We are currently still facing the challenge of insufficient representation of women and other gender minorities in data science and statistics. However, it is has been observed that perhaps this gender imbalance may start from a much earlier point than when individuals are entering the workforce. The “leaky pipeline” is a term that describes the phenomenon of the loss of women in STEM fields , despite them having strong abilities and interest in these domains. To help overcome systemic barriers that women face in these industries, I believe it is important that we impact students early on to expose them to new topics and perhaps inspire them to pursue careers in data science. In this talk, I will discuss my experiences with data science outreach and how engaging our communities can promote future women in the field.\nClick here to watch a recording of this talk on YouTube."
+    "text": "Abstract\nThis workshop will teach you how to perform machine learning for prediction in Python using the widely-used Scikit-learn learn package. You will be introduced to best practices for machine learning model creation and selection, including data splitting, pre-processing, parameter and model optimization, as well as results visualization and communication. Workshop examples will begin with simple, intuitive models (e.g., K-nearest neighbors, linear regression) but also demonstrate the use of more commonly used and industry standard models (e.g., ensemble methods such as random forest and boosting). The workshop will focus on demonstrating how to do this using the modern Scikit-learn pipeline syntax."
   },
   {
-    "objectID": "projects/project_1/index.html",
-    "href": "projects/project_1/index.html",
-    "title": "Girls in Data Science Camp",
-    "section": "",
-    "text": "The Girls in Data Science Summer Camp at UBC aims to expose participants to a variety of topics in data science and statistics. More details can be found by visiting https://katieburak.github.io/girls-in-DS/README.html."
-  },
-  {
-    "objectID": "projects/pkg_1/index.html",
-    "href": "projects/pkg_1/index.html",
-    "title": "pkg_1",
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
     "section": "",
     "text": "This package does this."
   },
   {
-    "objectID": "projects/project_2/index.html",
-    "href": "projects/project_2/index.html",
-    "title": "Stats with Katie",
+    "objectID": "projects/project_3/index.html",
+    "href": "projects/project_3/index.html",
+    "title": "PhD Dissertation",
     "section": "",
-    "text": "This YouTube channel provides short videos to explain a variety of statistical concepts. Whether you are new to stats or looking to brush up your skills, check out my channel here!"
-  },
-  {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
-    "section": "",
-    "text": "Here is a featured list of some courses I have taught recently:\n\nSTAT 545: Exploratory Data Analysis\nDSCI 552: Statistical Inference and Computation I\nDSCI 561: Regression I\nDSCI 574: Spatial and Temporal Models\nDSCI 100: Introduction to Data Science",
-    "crumbs": [
-      "Courses"
-    ]
+    "text": "Nonparametric inference for linear models via an analytic framework for the wild bootstrap"
   },
   {
     "objectID": "projects/index.html",
@@ -100,25 +83,49 @@
     ]
   },
   {
-    "objectID": "projects/project_3/index.html",
-    "href": "projects/project_3/index.html",
-    "title": "PhD Dissertation",
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
     "section": "",
-    "text": "Nonparametric inference for linear models via an analytic framework for the wild bootstrap"
+    "text": "Here is a featured list of some courses I have taught recently:\n\nSTAT 545: Exploratory Data Analysis\nDSCI 552: Statistical Inference and Computation I\nDSCI 561: Regression I\nDSCI 574: Spatial and Temporal Models\nDSCI 100: Introduction to Data Science",
+    "crumbs": [
+      "Courses"
+    ]
   },
   {
-    "objectID": "projects/pkg_2/index.html",
-    "href": "projects/pkg_2/index.html",
-    "title": "pkg_2",
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "Stats with Katie",
+    "section": "",
+    "text": "This YouTube channel provides short videos to explain a variety of statistical concepts. Whether you are new to stats or looking to brush up your skills, check out my channel here!"
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
     "section": "",
     "text": "This package does this."
   },
   {
-    "objectID": "talks/talk_3/index.html",
-    "href": "talks/talk_3/index.html",
-    "title": "Machine learning with scikit-learn in Python",
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "Girls in Data Science Camp",
     "section": "",
-    "text": "Abstract\nThis workshop will teach you how to perform machine learning for prediction in Python using the widely-used Scikit-learn learn package. You will be introduced to best practices for machine learning model creation and selection, including data splitting, pre-processing, parameter and model optimization, as well as results visualization and communication. Workshop examples will begin with simple, intuitive models (e.g., K-nearest neighbors, linear regression) but also demonstrate the use of more commonly used and industry standard models (e.g., ensemble methods such as random forest and boosting). The workshop will focus on demonstrating how to do this using the modern Scikit-learn pipeline syntax."
+    "text": "The Girls in Data Science Summer Camp at UBC aims to expose participants to a variety of topics in data science and statistics. More details can be found by visiting https://katieburak.github.io/girls-in-DS/README.html."
+  },
+  {
+    "objectID": "talks/talk_2/index.html",
+    "href": "talks/talk_2/index.html",
+    "title": "Diversity in Data Science: Empowering Women Through Outreach",
+    "section": "",
+    "text": "Abstract\nIn 2024, the Data Science Council of America reported that although 57% of women make up the overall workforce, only 27% of employees in the technology industry are women. We are currently still facing the challenge of insufficient representation of women and other gender minorities in data science and statistics. However, it is has been observed that perhaps this gender imbalance may start from a much earlier point than when individuals are entering the workforce. The “leaky pipeline” is a term that describes the phenomenon of the loss of women in STEM fields , despite them having strong abilities and interest in these domains. To help overcome systemic barriers that women face in these industries, I believe it is important that we impact students early on to expose them to new topics and perhaps inspire them to pursue careers in data science. In this talk, I will discuss my experiences with data science outreach and how engaging our communities can promote future women in the field.\nClick here to watch a recording of this talk on YouTube."
+  },
+  {
+    "objectID": "talks/talk_4/index.html",
+    "href": "talks/talk_4/index.html",
+    "title": "Authentic Data Science Assessments in a Computer-Based Testing Environment",
+    "section": "",
+    "text": "Abstract\nAs the demand for teaching applied statistics and data science grows, so does the need for effective assessment tools. Traditional exams often fall short, particularly in fields requiring coding and data analysis. This disconnect can hinder students’ ability to demonstrate practical skills. To address this, we explored asynchronous computer-based assessments in UBC’s Master of Data Science program, implementing a system that facilitated flexible, self-scheduled exams while reducing instructional workload and promoting equity through a standardized computing environment. We mapped exam questions to course-specific learning objectives and incorporated randomization to ensure varied question sets and consistent difficulty.\nOur project evaluates how asynchronous assessments affect student engagement and performance, analyzing factors such as exam timing and question style. The insights aim to guide assessment strategies in statistical education by offering evidence-based recommendations.\n\nSlides can be found here"
   },
   {
     "objectID": "talks/talk_1/index.html",

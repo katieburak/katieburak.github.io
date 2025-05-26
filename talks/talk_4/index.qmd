@@ -1,0 +1,15 @@
+---
+title: "Authentic Data Science Assessments in a Computer-Based Testing Environment"
+description: "New Frontiers in Statistical Education, SSC 2025"
+date: "2025-05-27"
+categories:
+authors: Katie Burak, Hedayat Zarkoob, Firas Moosvi (University of British Columbia)
+---
+
+### Abstract
+
+As the demand for teaching applied statistics and data science grows, so does the need for effective assessment tools. Traditional exams often fall short, particularly in fields requiring coding and data analysis. This disconnect can hinder students' ability to demonstrate practical skills. To address this, we explored asynchronous computer-based assessments in UBC's Master of Data Science program, implementing a system that facilitated flexible, self-scheduled exams while reducing instructional workload and promoting equity through a standardized computing environment. We mapped exam questions to course-specific learning objectives and incorporated randomization to ensure varied question sets and consistent difficulty.
+
+Our project evaluates how asynchronous assessments affect student engagement and performance, analyzing factors such as exam timing and question style. The insights aim to guide assessment strategies in statistical education by offering evidence-based recommendations.
+
+> Slides can be found [here](https://katieburak.github.io/ssc-2025/)

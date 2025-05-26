@@ -12,6 +12,16 @@ listing:
     grid-item-border: false
     sort-ui: false
     filter-ui: false
+  - id: ssc2025
+    max-description-length: 500
+    image-height: 50px
+    fields: [title, description, image, date]
+    contents: 
+      - talk_4
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    filter-ui: false
     
   - id: ssc2024
     max-description-length: 500
@@ -39,6 +49,8 @@ listing:
 #### Past and Upcoming Talks:
 
 ::: {#posit2025}
+:::
+::: {#ssc2025}
 :::
 ::: {#ssc2024}
 :::
