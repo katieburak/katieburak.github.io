@@ -42,18 +42,15 @@
     "text": "E-mail\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nI am an Assistant Professor of Teaching in the Department of Statistics as well as a member of the academic team for the Master of Data Science Program at the University of British Columbia. My work focuses on modern pedagogical methods in statistics and data science. I am passionate about academic outreach, with a focus on promoting women in data science and addressing equity issues in the statistical sciences.\n\nEducation\n\nPhD in Statistics | University of Alberta, 2023\nMSc in Statistics | University of Calgary, 2019\nBSc in Mathematics | MacEwan University, 2017"
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
-    "title": "Talks",
+    "objectID": "talks/ssc2024/index.html",
+    "href": "talks/ssc2024/index.html",
+    "title": "How to create and distribute R packages",
     "section": "",
-    "text": "Past and Upcoming Talks:\n\n\n\n\n\n\n\n\n\n\nMachine learning with scikit-learn in Python\n\n\n\n\n\nposit::conf(2025)\n\n\n\n\n\nSep 16, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nAuthentic Data Science Assessments in a Computer-Based Testing Environment\n\n\n\n\n\nNew Frontiers in Statistical Education, SSC 2025\n\n\n\n\n\nMay 27, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nHow to create and distribute R packages\n\n\n\n\n\nData Science and Analytics Workshop, SSC 2024\n\n\n\n\n\nJun 2, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\nDiversity in Data Science: Empowering Women Through Outreach\n\n\n\n\n\nIDWSDS Conference 2024\n\n\n\n\n\nOct 8, 2024\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Talks"
-    ]
+    "text": "Abstract\nIn this workshop learners will be introduced to what an R package is and when they should invest the time to make one. By the end of the workshop, learners should be able to build their own package that can be easily shared and installed by others. Additional important topics such as code testing, documentation and licenses will also be attended to.\n\nWorkshop material can be found here"
   },
   {
-    "objectID": "talks/talk_3/index.html",
-    "href": "talks/talk_3/index.html",
+    "objectID": "talks/posit2025/index.html",
+    "href": "talks/posit2025/index.html",
     "title": "Machine learning with scikit-learn in Python",
     "section": "",
     "text": "Abstract\nThis workshop will teach you how to perform machine learning for prediction in Python using the widely-used Scikit-learn learn package. You will be introduced to best practices for machine learning model creation and selection, including data splitting, pre-processing, parameter and model optimization, as well as results visualization and communication. Workshop examples will begin with simple, intuitive models (e.g., K-nearest neighbors, linear regression) but also demonstrate the use of more commonly used and industry standard models (e.g., ensemble methods such as random forest and boosting). The workshop will focus on demonstrating how to do this using the modern Scikit-learn pipeline syntax."
@@ -114,25 +111,28 @@
     "text": "The Girls in Data Science Summer Camp at UBC aims to expose participants to a variety of topics in data science and statistics. More details can be found by visiting https://katieburak.github.io/girls-in-DS/README.html."
   },
   {
-    "objectID": "talks/talk_2/index.html",
-    "href": "talks/talk_2/index.html",
+    "objectID": "talks/IDWSDS2024/index.html",
+    "href": "talks/IDWSDS2024/index.html",
     "title": "Diversity in Data Science: Empowering Women Through Outreach",
     "section": "",
     "text": "Abstract\nIn 2024, the Data Science Council of America reported that although 57% of women make up the overall workforce, only 27% of employees in the technology industry are women. We are currently still facing the challenge of insufficient representation of women and other gender minorities in data science and statistics. However, it is has been observed that perhaps this gender imbalance may start from a much earlier point than when individuals are entering the workforce. The “leaky pipeline” is a term that describes the phenomenon of the loss of women in STEM fields , despite them having strong abilities and interest in these domains. To help overcome systemic barriers that women face in these industries, I believe it is important that we impact students early on to expose them to new topics and perhaps inspire them to pursue careers in data science. In this talk, I will discuss my experiences with data science outreach and how engaging our communities can promote future women in the field.\nClick here to watch a recording of this talk on YouTube."
   },
   {
-    "objectID": "talks/talk_4/index.html",
-    "href": "talks/talk_4/index.html",
+    "objectID": "talks/ssc2025/index.html",
+    "href": "talks/ssc2025/index.html",
     "title": "Authentic Data Science Assessments in a Computer-Based Testing Environment",
     "section": "",
     "text": "Abstract\nAs the demand for teaching applied statistics and data science grows, so does the need for effective assessment tools. Traditional exams often fall short, particularly in fields requiring coding and data analysis. This disconnect can hinder students’ ability to demonstrate practical skills. To address this, we explored asynchronous computer-based assessments in UBC’s Master of Data Science program, implementing a system that facilitated flexible, self-scheduled exams while reducing instructional workload and promoting equity through a standardized computing environment. We mapped exam questions to course-specific learning objectives and incorporated randomization to ensure varied question sets and consistent difficulty.\nOur project evaluates how asynchronous assessments affect student engagement and performance, analyzing factors such as exam timing and question style. The insights aim to guide assessment strategies in statistical education by offering evidence-based recommendations.\n\nSlides can be found here"
   },
   {
-    "objectID": "talks/talk_1/index.html",
-    "href": "talks/talk_1/index.html",
-    "title": "How to create and distribute R packages",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
     "section": "",
-    "text": "Abstract\nIn this workshop learners will be introduced to what an R package is and when they should invest the time to make one. By the end of the workshop, learners should be able to build their own package that can be easily shared and installed by others. Additional important topics such as code testing, documentation and licenses will also be attended to.\n\nWorkshop material can be found here"
+    "text": "Past and Upcoming Talks:\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
   },
   {
     "objectID": "blog/post-with-code/index.html",
