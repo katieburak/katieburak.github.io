@@ -1,8 +1,11 @@
 ---
-title: "Stats with Katie"
+title: "Diverse Data Hub"
 categories:
-image: "image.jpg"
+image: "logo.jpg"
 ---
 
-This YouTube channel provides short videos to explain a variety of statistical concepts. Whether you are new to stats or looking to brush up your skills, check out my channel [here](https://youtube.com/@statswithkatie-q5g?si=yuieybWa0Bdsf65X)! 
+Diverse Data Hub is an open educational resource offering curated data sets focused on equity, diversity, inclusion, and other socially relevant topics. It is designed to support students, educators, and researchers in accessing and working with meaningful data.
 
+Data sets are available through the diversedata R and Python package, allowing for straightforward integration into data science workflows. Each dataset includes detailed documentation and contextual background to support informed exploration and connection to real-world topics. Example case studies are also included to illustrate practical applications.
+
+For more information, please visit [https://diverse-data-hub.github.io/](https://diverse-data-hub.github.io/).
