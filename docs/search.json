@@ -94,11 +94,18 @@
     ]
   },
   {
+    "objectID": "projects/project_10/index.html",
+    "href": "projects/project_10/index.html",
+    "title": "PhD Dissertation",
+    "section": "",
+    "text": "Nonparametric inference for linear models via an analytic framework for the wild bootstrap"
+  },
+  {
     "objectID": "projects/index.html",
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are a selection of projects that I have worked on over the years.\n\n\n\n\n\n\n\n\n\n\nGirls in Data Science Camp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiverse Data Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStats with Katie\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Dissertation\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Here are a selection of projects that I have worked on over the years.\n\n\n\n\n\n\n\n\n\n\nGirls in Data Science Camp\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiverse Data Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStats with Katie\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSampling Shiny App\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Dissertation\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Projects"
     ]
@@ -106,9 +113,9 @@
   {
     "objectID": "projects/project_4/index.html",
     "href": "projects/project_4/index.html",
-    "title": "PhD Dissertation",
+    "title": "Sampling Shiny App",
     "section": "",
-    "text": "Nonparametric inference for linear models via an analytic framework for the wild bootstrap"
+    "text": "Try out different sampling techniques with this hands-on Shiny app:  https://5o11jj-katie0burak.shinyapps.io/sampling-shiny-app/!"
   },
   {
     "objectID": "projects/project_1/index.html",

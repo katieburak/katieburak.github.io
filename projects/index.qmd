@@ -11,6 +11,7 @@ listing:
       - project_2
       - project_3
       - project_4
+      - project_10
     type: grid
     grid-item-border: false
     sort: false

@@ -1,8 +1,10 @@
 ---
-title: "PhD Dissertation"
+title: "Sampling Shiny App"
 categories:
 image: "image.jpg"
 ---
 
-[Nonparametric inference for linear models via an analytic framework for the wild bootstrap](https://era.library.ualberta.ca/items/841a01f7-552d-42b2-9979-e3d524422720/view/7b74af13-35f2-480d-96da-5df30bf492e8/Burak_Katherine_202305_PhD.pdf)
+Try out different sampling techniques with this hands-on Shiny app:
+<br>
+[https://5o11jj-katie0burak.shinyapps.io/sampling-shiny-app/](https://5o11jj-katie0burak.shinyapps.io/sampling-shiny-app/)! 
 
