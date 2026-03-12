@@ -10,4 +10,4 @@ authors: Tiffany Timbers, Daniel Chen, G. Alexi Rodríguez-Arelis, Katie Burak (
 
 In this workshop learners will be introduced to what an R package is and when they should invest the time to make one. By the end of the workshop, learners should be able to build their own package that can be easily shared and installed by others. Additional important topics such as code testing, documentation and licenses will also be attended to.
 
-> Workshop material can be found [here](https://ubc-stat.github.io/ssc-workshop-2024/)
+> *Content: [https://ubc-stat.github.io/ssc-workshop-2024/](https://ubc-stat.github.io/ssc-workshop-2024/)*

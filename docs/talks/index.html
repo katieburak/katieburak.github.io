@@ -72,6 +72,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-torus2026 .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-torus2026'] = new List('listing-torus2026', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-posit2025 .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -306,16 +334,48 @@ window.Quarto = {
 
 <section id="past-and-upcoming-talks" class="level4">
 <h4 class="anchored">Past and Upcoming Talks:</h4>
+<div id="listing-torus2026" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1773990000000" data-listing-file-modified-sort="1773333199016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
+<div class="thumbnail">
+<p><a href="../talks/torus2026/index.html" class="no-external"></a></p><a href="../talks/torus2026/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" style="height: 50px;">&nbsp;</div>
+</a><p><a href="../talks/torus2026/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title" data-anchor-id="past-and-upcoming-talks">
+<a href="../talks/torus2026/index.html" class="no-external">An Introduction to Data Privacy in Practice</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../talks/torus2026/index.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../talks/torus2026/index.html" class="no-external">Torus Talk, MacEwan University</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../talks/torus2026/index.html" class="no-external">
+<div class="listing-date">
+Mar 20, 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 <div id="listing-posit2025" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1758006000000" data-listing-file-modified-sort="1754065758281" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="100">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1758006000000" data-listing-file-modified-sort="1773333313063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="102">
 <div class="thumbnail">
 <p><a href="../talks/posit2025/index.html" class="no-external"></a></p><a href="../talks/posit2025/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" style="height: 50px;">&nbsp;</div>
 </a><p><a href="../talks/posit2025/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<h3 class="no-anchor listing-title" data-anchor-id="past-and-upcoming-talks">
+<h3 class="no-anchor listing-title">
 <a href="../talks/posit2025/index.html" class="no-external">Machine learning with scikit-learn in Python</a>
 </h3>
 <div class="listing-subtitle">
@@ -340,7 +400,7 @@ No matching items
 </div>
 <div id="listing-ssc2025" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1748329200000" data-listing-file-modified-sort="1754065758282" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1748329200000" data-listing-file-modified-sort="1773333343537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
 <div class="thumbnail">
 <p><a href="../talks/ssc2025/index.html" class="no-external"></a></p><a href="../talks/ssc2025/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" style="height: 50px;">&nbsp;</div>
@@ -372,7 +432,7 @@ No matching items
 </div>
 <div id="listing-ssc2024" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1717311600000" data-listing-file-modified-sort="1754065758282" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1717311600000" data-listing-file-modified-sort="1773333373839" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <div class="thumbnail">
 <p><a href="../talks/ssc2024/index.html" class="no-external"></a></p><a href="../talks/ssc2024/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" style="height: 50px;">&nbsp;</div>
@@ -873,7 +933,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© Copyright 2025, Katie Burak</p>
+<p>© Copyright 2026, Katie Burak</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

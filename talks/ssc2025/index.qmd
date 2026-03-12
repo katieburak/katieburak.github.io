@@ -12,4 +12,4 @@ As the demand for teaching applied statistics and data science grows, so does th
 
 Our project evaluates how asynchronous assessments affect student engagement and performance, analyzing factors such as exam timing and question style. The insights aim to guide assessment strategies in statistical education by offering evidence-based recommendations.
 
-> Slides can be found [here](https://katieburak.github.io/ssc-2025/)
+> *Slides: [https://katieburak.github.io/ssc-2025/](https://katieburak.github.io/ssc-2025/)*

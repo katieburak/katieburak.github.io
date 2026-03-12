@@ -1,0 +1,13 @@
+---
+title: "An Introduction to Data Privacy in Practice"
+description: "Torus Talk, MacEwan University"
+date: "2026-03-20"
+authors: Katie Burak (University of British Columbia)
+link: https://katieburak.github.io/torus-talk-2026/
+---
+
+### Abstract
+
+Can data ever be truly anonymous? We hear a lot about de-identified data, but turning real-world data into something that protects privacy while still being useful is trickier than it sounds. In this talk, we’ll introduce the concept of data privacy, why context matters and where common approaches can fall short. We’ll cover simple de-identification techniques as well as statistical methods for protecting data, and discuss the tradeoff between privacy and data utility.
+
+> *Slides: [https://katieburak.github.io/torus-talk-2026](https://katieburak.github.io/torus-talk-2026/)*

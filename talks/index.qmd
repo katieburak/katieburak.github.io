@@ -2,6 +2,16 @@
 title: "Talks"
 description: |
 listing:
+	
+  - id: torus2026
+    max-description-length: 500
+    image-height: 50px
+    fields: [title, description, image, date]
+    contents: 
+      - torus2026
+    type: default
+    grid-item-border: false
+    
   - id: posit2025
     max-description-length: 500
     image-height: 50px
@@ -10,8 +20,8 @@ listing:
       - posit2025
     type: default
     grid-item-border: false
-    sort-ui: false
     filter-ui: false
+    
   - id: ssc2025
     max-description-length: 500
     image-height: 50px
@@ -20,7 +30,6 @@ listing:
       - ssc2025
     type: default
     grid-item-border: false
-    sort-ui: false
     filter-ui: false
     
   - id: ssc2024
@@ -31,7 +40,6 @@ listing:
       - ssc2024
     type: default
     grid-item-border: false
-    sort-ui: false
     filter-ui: false
     
   - id: IDWSDS2024
@@ -48,6 +56,8 @@ listing:
 
 #### Past and Upcoming Talks:
 
+::: {#torus2026}
+:::
 ::: {#posit2025}
 :::
 ::: {#ssc2025}
