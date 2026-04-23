@@ -101,7 +101,7 @@
     "href": "courses.html",
     "title": "Courses",
     "section": "",
-    "text": "Here is a featured list of some courses I have taught recently:\n\nSTAT 545: Exploratory Data Analysis\nDSCI 552: Statistical Inference and Computation I\nDSCI 561: Regression I\nDSCI 574: Spatial and Temporal Models\nDSCI 100: Introduction to Data Science",
+    "text": "Here is a featured list of some courses I have taught recently:\n\nDSCI 200 - Navigating Data: Acquisition, Exploration and Management\nDSCI 100 - Introduction to Data Science\nDSCI 552 - Statistical Inference and Computation I\nDSCI 561 - Regression I\nDSCI 574 - Spatial and Temporal Models\nSTAT 545 - Exploratory Data Analysis",
     "crumbs": [
       "Courses"
     ]
