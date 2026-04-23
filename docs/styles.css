@@ -1,85 +1,241 @@
-/* css styles */
+/* Modernized site styling */
 
 :root {
-  --bs-primary: #003366; 
-  --bs-secondary: #003366; 
-  --bs-body-bg: #f8f9fa; 
-  --bs-body-color: #212529; 
+  --kb-primary: #1F4E79;      /* deep blue */
+  --kb-secondary: #C7D8E2;    /* dusty light blue */
+  --kb-accent: #BA9393;       /* muted terracotta accent */
+  --kb-bg: #F7FAFC;           /* soft off-white background */
+  --kb-surface: #FFFFFF;      /* cards / panels */
+  --kb-text: #24323D;         /* main text */
+  --kb-muted: #5C6B76;        /* secondary text */
+  --kb-border: #D9E4EA;       /* soft border */
 }
 
+:root {
+  --bs-primary: var(--kb-primary);
+  --bs-secondary: var(--kb-secondary);
+  --bs-body-bg: var(--kb-bg);
+  --bs-body-color: var(--kb-text);
+  --bs-link-color: var(--kb-primary);
+  --bs-link-hover-color: var(--kb-accent);
+}
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif !important;
-  color: #212529; /* Default text color */
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  color: var(--kb-text);
+  background-color: var(--kb-bg);
+  line-height: 1.65;
 }
 
-
-h1, h2, h3 {
-  color: var(--bs-primary); /* Use your primary color for headings */
+/* Headings */
+h1, h2, h3, h4 {
+  color: var(--kb-primary);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-top: 1.2rem;
+  margin-bottom: 0.6rem;
 }
 
+h1 {
+  font-size: 2.2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid var(--kb-border);
+  padding-bottom: 0.25rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+}
+
+/* Body text */
+p, li {
+  font-size: 1rem;
+  color: var(--kb-text);
+}
+
+/* Links */
 a {
-  color: var(--bs-primary); /* Links */
+  color: var(--kb-primary);
   text-decoration: none;
+  transition: color 0.2s ease, border-color 0.2s ease;
 }
 
 a:hover {
-  color: var(--bs-secondary); /* Change color on hover */
+  color: var(--kb-accent);
+  text-decoration: none;
 }
 
-/* Apply the background color to the sidebar */
+/* Sidebar */
 nav.sidebar {
-  background-color: #B0C8D3 !important; /* Light blue background */
-  color: #003366; /* Navy text */
-  padding: 1rem; /* Optional: Add padding for spacing */
-  border-right: 1px solid #B0C8D3; /* Optional: Add a border to define the sidebar */
+  background: linear-gradient(180deg, #D3E1E8 0%, #C7D8E2 100%) !important;
+  color: var(--kb-primary);
+  padding: 1.25rem;
+  border-right: 1px solid var(--kb-border);
 }
 
-/* Ensure all content within the sidebar respects the color */
 nav.sidebar * {
-  color: #003366 !important; /* Navy for all text inside sidebar */
+  color: var(--kb-primary) !important;
 }
 
-/* Style the links in the sidebar */
 nav.sidebar a {
-  color: #003366; /* Navy links */
-  text-decoration: none; /* Remove underlines */
-  font-weight: bold; /* Optional: Bold text */
+  color: var(--kb-primary) !important;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 0.25rem 0.4rem;
+  display: inline-block;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-/* Sidebar links hover state */
 nav.sidebar a:hover {
-  color: #003366; 
-  text-decoration: underline;
+  background-color: rgba(255, 255, 255, 0.45);
+  color: var(--kb-accent) !important;
+  text-decoration: none;
 }
 
-/* Reduce margin and padding for the listing container */
+/* Main content area */
+main.content {
+  padding-top: 1.5rem;
+}
+
+/* About / hero block */
+.about-entity {
+  background-color: var(--kb-surface);
+  border: 1px solid var(--kb-border);
+  border-radius: 18px;
+  padding: 1.5rem;
+  box-shadow: 0 8px 24px rgba(31, 78, 121, 0.08);
+}
+
+.about-links .about-link {
+  background-color: var(--kb-primary);
+  color: white !important;
+  border-radius: 999px;
+  padding: 0.45rem 0.85rem;
+  margin-right: 0.45rem;
+  font-weight: 600;
+  transition: transform 0.15s ease, background-color 0.2s ease;
+}
+
+.about-links .about-link:hover {
+  background-color: var(--kb-accent);
+  color: white !important;
+  transform: translateY(-1px);
+}
+
+/* Profile image */
+.about-image {
+  border-radius: 16px !important;
+  box-shadow: 0 8px 24px rgba(31, 78, 121, 0.12);
+}
+
+/* Listings */
 .listing {
-  margin-bottom: 10px; /* Adjust the spacing between each listing */
-  padding: 0; /* Remove unnecessary padding */
+  margin-bottom: 1rem;
+  padding: 0;
 }
 
-/* Reduce space between individual listing items */
 .listing-item {
-  margin-bottom: 5px; /* Adjust space between each listing item */
-  padding: 0; /* Remove extra padding */
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: var(--kb-surface);
+  border: 1px solid var(--kb-border);
+  border-radius: 14px;
+  box-shadow: 0 4px 14px rgba(31, 78, 121, 0.05);
 }
 
-/* Control image size and remove extra space below images */
 .listing-item img {
-  height: 150px; /* Ensure the images stay at 150px */
-  width: auto; /* Maintain aspect ratio */
-  display: block; /* Remove space below the image */
+  height: 150px;
+  width: auto;
+  display: block;
+  border-radius: 10px;
 }
 
-/* Reduce spacing around heading and description inside listing items */
-.listing-item h3, .listing-item p {
-  margin-top: 5px;
-  margin-bottom: 5px; /* Adjust margins to reduce space */
+.listing-item h3,
+.listing-item p {
+  margin-top: 0.35rem;
+  margin-bottom: 0.35rem;
 }
 
-/* Reduce space between links in listing items */
-.listing-item a {
-  margin-top: 0;
-  margin-bottom: 5px; /* Reduce space between links */
+/* Footer */
+.footer,
+.nav-footer {
+  border-top: 1px solid var(--kb-border);
+  color: var(--kb-muted);
+  font-size: 0.95rem;
+}
+
+/* Slightly nicer blockquote styling if you ever use them */
+blockquote {
+  border-left: 4px solid var(--kb-secondary);
+  padding-left: 1rem;
+  color: var(--kb-muted);
+}
+
+/* Mobile tweaks */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  .about-entity {
+    padding: 1rem;
+    border-radius: 14px;
+  }
+
+  nav.sidebar {
+    padding: 1rem;
+  }
+}
+
+/* ================================
+   Sidebar font size (FIX)
+================================ */
+
+nav.sidebar {
+  font-size: 1.05rem;
+}
+
+/* sidebar links */
+nav.sidebar a {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+/* sidebar section text */
+nav.sidebar * {
+  font-size: 1.5rem;
+}
+
+/* ================================
+   Homepage typography
+================================ */
+
+main.content {
+  font-size: 1.15rem;
+  line-height: 1.85;
+}
+
+/* paragraph text in hero section */
+#hero-heading p {
+  font-size: 1.2rem;
+}
+
+#hero-heading p:last-of-type {
+  margin-bottom: 2rem;
+}
+
+:root {
+  font-size: 18px !important;
+}
+
+/* Force Quarto content areas */
+main.content,
+div.content,
+.quarto-container {
+  font-size: 1.05rem !important;
+  line-height: 1.75 !important;
 }

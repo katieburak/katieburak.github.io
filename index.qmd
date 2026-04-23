@@ -1,16 +1,18 @@
 ---
 title: "Katie Burak"
 image: profile.png
+page-layout: full
 about:
   id: hero-heading
   template: trestles
   image-shape: rectangle
+  image-width: 20em
   links:
     - icon: envelope
       text: E-mail
       href: "mailto:kburak@stat.ubc.ca"
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/katieburak
     - icon: linkedin
       text: LinkedIn
@@ -23,10 +25,10 @@ I am an Assistant Professor of Teaching in the [Department of Statistics](https:
 
 ### Education
 
-+ PhD in Statistics | University of Alberta, 2023
++ **PhD in Statistics**, University of Alberta, 2023
 
-+ MSc in Statistics | University of Calgary, 2019
++ **MSc in Statistics**, University of Calgary, 2019
 
-+ BSc in Mathematics | MacEwan University, 2017
++ **BSc in Mathematics**, MacEwan University, 2017
 
 :::
